@@ -14,7 +14,7 @@ An end-to-end retail analytics project built on **125,000 transactions** across 
 ## 📊 Dashboard Pages
 
 ### Page 1 — Sales Overview
-![Sales Overview](screenshots/page1_sales_overview.png)
+![Sales Overview](screenshots/Screenshot 2026-05-01 065416.png)
 
 | KPI | Value |
 |-----|-------|
