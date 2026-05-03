@@ -32,7 +32,7 @@ An end-to-end retail analytics project built on **125,000 transactions** across 
 ---
 
 ### Page 2 — RFM Segmentation & Churn Analysis
-![RFM Analysis](screenshots/page2_rfm_churn.png)
+![RFM Analysis](screenshots/page2.png)
 
 | KPI | Value |
 |-----|-------|
